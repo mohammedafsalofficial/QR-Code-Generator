@@ -12,7 +12,7 @@ If you've ever faced the pain of typing the url to browse the website, this proj
 
 <br />
 
-The QR Code Generator project is a web application that allows users to generate custom QR codes. QR codes are two-dimensional barcodes that can store various types of information, such as URLs, text, contact information, and more.
+The QR Code Generator project is a Node Js application that allows users to generate custom QR codes. QR codes are two-dimensional barcodes that can store various types of information, such as URLs, text, contact information, and more.
 
 The project provides a command-line interface where users can input their desired content and customize the appearance of the QR code.
 
